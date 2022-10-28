@@ -4,7 +4,7 @@ https://tv-show-proj.netlify.app/
 
 ## Description
 ​
-Created a simple TV-Show Project using "fetch"
+Created a simple TV-Show Project using "fetch method"
 ​
 ## Project GIF
 ​
