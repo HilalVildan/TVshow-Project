@@ -6,7 +6,7 @@ https://tv-show-proj.netlify.app/
 ​
 Created a simple TV-Show Project using "fetch"
 ​
-## Project image
+## Project GIF
 ​
 ![proje image](/MTVideo.gif)
 
