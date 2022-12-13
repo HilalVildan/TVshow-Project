@@ -13,8 +13,6 @@ Created a simple TV-Show Project using "fetch method"
 ## Technologies used
 ​
 - HTML
-​
-- CSS
 
 - JS
 
